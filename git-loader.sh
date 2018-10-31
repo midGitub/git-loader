@@ -5,7 +5,7 @@
 #ask for typing github project author and project name
 echo "Type your GitHub project url for download"
 
-#colect information
+#collect information
 read url
 
 #get data from github project page
