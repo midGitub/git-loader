@@ -2,7 +2,7 @@
 
 #Shell Script By Ziyaddin Sadigov (C)
 
-#ask for typing github project author and project name
+#ask user for the GitHub project URL
 echo "Type your GitHub project url for download"
 
 #collect information
@@ -17,7 +17,7 @@ if [ "$?" = "0" ]; then
 	echo "Successfully Downloaded"
 
 else
-
+	#or let user know that it failed
 	echo "Download Failed"
 
 fi
