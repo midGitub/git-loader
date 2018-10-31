@@ -1,4 +1,4 @@
-## Git-Loader
+# git-loader
 
 Tiny Shell Program for Linux, Mac to help you download and setup your github projects.
  - run your terminal
